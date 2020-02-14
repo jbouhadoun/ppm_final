@@ -1,0 +1,3 @@
+fn main() {
+    println!("cargo:rustc-link-search=/home/anis/cours_s1/rust/ppm/src");
+}
